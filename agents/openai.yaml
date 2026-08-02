@@ -1,0 +1,4 @@
+interface:
+  display_name: "Android Rooting"
+  short_description: "Menu-driven Android root and Magisk module skill"
+  default_prompt: "Use $root-android to root my phone or manage Magisk modules."
