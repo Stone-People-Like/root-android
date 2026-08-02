@@ -1,0 +1,6 @@
+id=my_module
+name=My Module
+version=v1.0
+versionCode=1
+author=user
+description=A template Magisk module
