@@ -84,6 +84,10 @@ flowchart TD
 
 ## 🚀 快速开始
 
+### 0. 给 AI Agent 的一句话安装指令
+
+> 🤖 请克隆 https://github.com/Stone-People-Like/root-android 并将其中的 `root-android` 目录软链到 `~/.codex/skills/root-android`，让 Codex 能自动发现并使用这个技能。
+
 ### 1. 安装到 Codex
 
 将本仓库软链或复制到 Codex 的 skills 目录（二选一）：
