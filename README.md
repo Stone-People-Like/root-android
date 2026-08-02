@@ -7,6 +7,7 @@
 从设备检测、BL 解锁到救砖恢复，一站式安全引导，每一步都带强制安全验证。
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/Stone-People-Like/root-android?style=for-the-badge&color=blueviolet&logo=github)](https://github.com/Stone-People-Like/root-android)
+[![GitHub release](https://img.shields.io/github/v/release/Stone-People-Like/root-android?style=for-the-badge&color=green&logo=github)](https://github.com/Stone-People-Like/root-android/releases)
 [![GitHub repo size](https://img.shields.io/github/repo-size/Stone-People-Like/root-android?style=for-the-badge&color=orange)](https://github.com/Stone-People-Like/root-android)
 [![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-3DDC84?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Stone-People-Like/root-android)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
