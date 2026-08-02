@@ -13,6 +13,7 @@
 [![Magisk](https://img.shields.io/badge/Magisk-v30.7-00C4FF?style=for-the-badge&logo=magisk&logoColor=white)](https://github.com/topjohnwu/Magisk)
 [![KernelSU](https://img.shields.io/badge/KernelSU-v3.2.5-FF6B6B?style=for-the-badge)](https://github.com/tiann/KernelSU)
 [![Markdown](https://img.shields.io/badge/Docs-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge&logo=gnu&logoColor=white)](https://www.gnu.org/licenses/gpl-3.0)
 
 </div>
 
@@ -209,6 +210,16 @@ root-android/
 ## 📜 免责声明
 
 本项目仅用于学习和研究。作者不对因使用本项目造成的设备损坏、数据丢失、保修失效或其他损失负责。请在充分理解风险并获得设备所有者授权的前提下使用。
+
+## 📄 开源协议
+
+本项目采用 **GNU General Public License v3.0（GPL-3.0）** 开源。
+
+- ✅ 允许商用
+- ✅ 允许修改与二次开发
+- 🔗 但分发修改版/衍生作品时，必须同样以 GPL-3.0 协议开源
+
+完整的协议文本见 [LICENSE](LICENSE)。
 
 ---
 
